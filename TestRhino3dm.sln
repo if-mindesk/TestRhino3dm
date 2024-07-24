@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRhino3dm", "TestRhino3dm\TestRhino3dm.csproj", "{F998ACA3-9584-4661-8FB0-8F4E0480BD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F998ACA3-9584-4661-8FB0-8F4E0480BD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F998ACA3-9584-4661-8FB0-8F4E0480BD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F998ACA3-9584-4661-8FB0-8F4E0480BD45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F998ACA3-9584-4661-8FB0-8F4E0480BD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F998ACA3-9584-4661-8FB0-8F4E0480BD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F998ACA3-9584-4661-8FB0-8F4E0480BD45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A2338E-8C0E-421D-B228-011E6D7EDCD3}
+	EndGlobalSection
+EndGlobal
